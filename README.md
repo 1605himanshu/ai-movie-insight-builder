@@ -11,7 +11,7 @@ The application fetches movie metadata from the OMDb API and analyzes sample aud
 
 Deployed on **Render**
 
-🔗 https://your-render-deployment-link
+🔗 [https://your-render-deployment-link](https://ai-movie-insight-builder-nbpj.onrender.com/)
 
 ---
 
